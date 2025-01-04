@@ -1,0 +1,1 @@
+python backbond_test.py --config-file configs/ade20k/semantic-segmentation/swin/maskformer2_swinv2_base_IN21k_384_bs16_160k_res640.yaml
